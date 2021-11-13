@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomHappyBirthday</string>
+    <string name="texto_superior">Se programar en android!</string>
+    <string name="texto_inferior">Y se como poner imágenes</string>
+</resources>
